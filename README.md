@@ -1,0 +1,3 @@
+# RandomGame
+Randomly generated game
+
